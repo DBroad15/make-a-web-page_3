@@ -1,0 +1,30 @@
+.block {
+	color: green;
+	margin-top: 45px;
+}
+.point {
+	color: blue;
+	font-weight: bold;
+}
+.paper {
+	color: white;
+    margin-left: 20%;
+}
+.brick {
+	background-color: aqua;
+}
+.blob {
+	margin-left: 20px;
+}
+.boss {
+	margin-top: 40px;
+	color:green;
+}
+.frame {
+	margin-left: 40px;
+	color:#ad005b;
+}
+.check {
+	margin-left: 60px;
+	color:#006189;
+}
